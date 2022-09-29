@@ -1,6 +1,6 @@
 # NeurT-FDR
 
-This library contains code for NeurT-FDR, a method for controlling false discovery rate by incorporating feature hierarchy. This paper is acceptted at Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). https://arxiv.org/abs/2101.09809.
+This library contains code for NeurT-FDR, a method for controlling false discovery rate by incorporating feature hierarchy. This paper is accepted at Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM 2022). https://arxiv.org/abs/2101.09809.
 
 
 
